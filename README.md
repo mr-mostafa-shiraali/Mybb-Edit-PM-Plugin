@@ -26,4 +26,4 @@ Two simple condition :
 * you can Select user groups to whom the private message cannot be edited when sending a private message.
 * You can choose whether the private message can be edited after viewing.
   
-   ## More details : [Edit PM Plugin](https://community.mybb.com/thread-237171.html)
+## More details : [Edit PM Plugin](https://community.mybb.com/thread-237171.html)
